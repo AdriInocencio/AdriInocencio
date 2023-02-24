@@ -15,15 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I LOVE fluffy cows <3
 -->
 
-![snake animation](https://github.com/adriinocencio/AdriInocencio)
-
-![snake animation](https://github.com/adriinocencio/AdriInocencio/blob/output/github-contribution-grid-snake.svg)
-
 ![snake animation](https://github.com/adriinocencio/adriinocencio/blob/output/github-contribution-grid-snake.svg)
-
-
-![snake gif](https://github.com/adriinocencio/AdriInocencio)
-
-![snake gif](https://github.com/adriinocencio/AdriInocencio/blob/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/adriinocencio/adriinocencio/blob/output/github-contribution-grid-snake.svg)
