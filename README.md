@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I LOVE fluffy cows <3
 -->
+
+![snake gif](https://github.com/adriinocencio/AdriInocencio/blob/output/github-contribution-grid-snake.svg)
