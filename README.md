@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I LOVE fluffy cows <3
 -->
 
-![snake animation](https://github.com/adriinocencio/adriinocencio)
+![snake animation](https://github.com/adriinocencio/AdriInocencio)
