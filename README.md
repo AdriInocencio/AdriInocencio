@@ -68,6 +68,9 @@ Here are some ideas to get you started:
 
 ## 📑Principais Projetos📑
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriinocencio&repo=adriinocencio&theme=buefy&locale=pt-br&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriinocencio&repo=GREENSIDE&theme=buefy&locale=pt-br&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriinocencio&repo=Diana-App&theme=buefy&locale=pt-br&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriinocencio&repo=Sawabona&theme=buefy&locale=pt-br&show_owner=true)
 
 ## 💥Contribuições💥
 ![snake animation](https://github.com/adriinocencio/adriinocencio/blob/output/github-contribution-grid-snake.svg)
