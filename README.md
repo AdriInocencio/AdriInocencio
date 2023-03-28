@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ![badge](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![badge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
+<!--
 ## 📢Social📢
 ![badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
@@ -65,6 +66,7 @@ Here are some ideas to get you started:
 ![badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+-->
 
 ## 📑Principais Projetos📑
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriinocencio&repo=adriinocencio&theme=buefy&locale=pt-br&show_owner=true)
